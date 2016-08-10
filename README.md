@@ -1,2 +1,0 @@
-# game-xiao
-self-game
